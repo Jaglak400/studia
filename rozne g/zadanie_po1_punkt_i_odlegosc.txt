@@ -1,0 +1,43 @@
+class Punkt
+{
+   int x, y;
+    int xp, yp;
+   public Punkt(int wsp_x, int wsp_y)
+    {
+        x = wsp_x; y = wsp_y; 
+    }
+    public void Wyswietl()
+    {
+        Console.WriteLine("x = " + x + " y = " + y);
+    }
+ 
+    public void Przesun( int dod_x, int dod_y)
+    {
+        xp = dod_x; yp = dod_y;
+        x = x + dod_x;
+        y = y + dod_y;   
+    }
+    public void CofnijPrzesun()
+    {
+        x = x - xp;
+        y = y - yp;
+    }
+    public static double odleglosc(Punkt p1, Punkt p2)
+    {
+        return Math.Sqrt((p2.x - p1.x) * (p2.x - p1.x) + (p2.y - p1.y) * (p2.y - p1.y));
+    }
+}
+class Program
+{
+    static void Main(string[] args)
+    {
+
+        Punkt p1, p2;
+        p1 = new Punkt(2,3);
+        p2 = new Punkt(5,-2);
+        Console.WriteLine(Punkt.odleglosc(p1, p2));    
+        Console.ReadKey();
+    }
+
+
+}
