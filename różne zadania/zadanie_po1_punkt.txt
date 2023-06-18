@@ -1,0 +1,42 @@
+class Punkt
+{
+   int x, y;
+    int xp, yp;
+   public Punkt(int wsp_x, int wsp_y)
+    {
+        x = wsp_x; y = wsp_y; 
+    }
+    public void Wyswietl()
+    {
+        Console.WriteLine("x = " + x + " y = " + y);
+    }
+ 
+    public void Przesun( int dod_x, int dod_y)
+    {
+        xp = dod_x; yp = dod_y;
+        x = x + dod_x;
+        y = y + dod_y;   
+    }
+    public void CofnijPrzesun()
+    {
+        x = x - xp;
+        y = y - yp;
+    }
+}
+class Program
+{
+    static void Main(string[] args)
+    {
+
+        Punkt p1;
+        p1 = new Punkt(2, 3);
+        p1.Wyswietl();
+        p1.Przesun( -5, 0);
+        p1.Wyswietl();
+        p1.CofnijPrzesun();
+        p1.Wyswietl();
+        Console.ReadKey();
+    }
+
+
+}
