@@ -1,0 +1,68 @@
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.ResolveComReference.cache
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\tbujd\Desktop\New folder\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\tbujd\Desktop\ProjektFizyka\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\tbujd\Desktop\ProjektFizyka\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\tbujd\Desktop\ProjektFizyka\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\tbujd\Desktop\ProjektFizyka\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\tbujd\Desktop\ProjektFizyka\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\tbujd\Desktop\ProjektFizyka\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\tbujd\Desktop\ProjektFizyka\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\tbujd\Desktop\ProjektFizyka\obj\Debug\net6.0\ConsoleApp1.csproj.ResolveComReference.cache
+C:\Users\tbujd\Desktop\ProjektFizyka\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbujd\Desktop\ProjektFizyka\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\tbujd\Desktop\ProjektFizyka\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\tbujd\Desktop\ProjektFizyka\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tbujd\Desktop\ProjektFizyka\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\tbujd\Desktop\ProjektFizyka\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\tbujd\Desktop\ProjektFizyka\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\tbujd\Desktop\ProjektFizyka\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\tbujd\Desktop\ProjektFizyka\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.csproj.ResolveComReference.cache
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.csproj.ResolveComReference.cache
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\tbujd\Desktop\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\ProjektFizyka Tomasz Bujdo 21_Inf_NW_3\obj\Debug\net6.0\ref\ConsoleApp1.dll
